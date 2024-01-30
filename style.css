@@ -216,7 +216,8 @@ display: block;
 
 /* welcome container */
 .container1{
-    
+    background-image: linear-gradient(rgba(245, 245, 245, 0.7),
+                       rgba(252, 252, 252, 0.7)), url("assets/footerback.jpg");
     width: 77%;
     margin: auto auto;
 }
@@ -294,17 +295,21 @@ display: block;
 
 /* VIDEO SECTION */
 .video_header h3{
+
 margin-top: 30px;
 text-align: center;
 font-family: 'Crete Round', serif;
 color: white;
 }
 .video_section{
+
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #bd5e46;
+    /* background-color: rgb(189, 94, 70); */
+    background-image: linear-gradient(rgba(189, 94, 70, 0.7),
+                       rgba(189, 94, 70, 0.7)), url("assets/videoback.jpg");
 }
 .video_content{
     display: flex;
@@ -558,7 +563,8 @@ form div div input:hover{
 
 /* Style the footer */
 footer {
-    background-color: #bd5e46; /* Choose your desired background color */
+    background-image: linear-gradient(rgba(189, 94, 70, 0.7),
+                       rgba(189, 94, 70, 0.7)), url("assets/footerback.jpg"); /* Choose your desired background color */
     color: #fff; /* Text color */
     padding: 20px 0;
 }
