@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Croissant+One&family=Libre+Baskerville:wght@700&family=Playfair:ital,wght@1,800&family=Poppins:wght@500&family=Roboto&family=Satisfy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.gallary_header{
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+text-align: center;
+font-family: 'Crete Round', serif;
+color: rgb(0, 0, 0);
+   
+}
+/* .gallary_container{
+    padding-left: 10%;
+    padding-right: 10%;
+} */
+.gallary_container img{
+   height: 300px;
+}

@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+}
+.flex-direction{
+    flex-direction: column;
+}
+.justify-content{
+    justify-content: center;
+}
+.align-item{
+    align-items: center;
+}
+
+.margin-left-navbar-item{
+    margin-left: 60px;
+}
+.space-arround{
+    justify-content: space-around;
+}
+
+.tac{
+    text-align: center;
+}
