@@ -317,6 +317,7 @@ display: block;
 .smartclass img {
     width: 300px;
 }
+
 .smartclass h5{
     text-align: center;
     padding: 10px;
@@ -341,6 +342,7 @@ display: block;
     border-bottom: 2px solid brown;
 }
 .creativity img{
+    height:14.01rem;
     width: 300px;
 }
 
@@ -350,7 +352,7 @@ display: block;
         justify-content: space-around;
         align-items: center;
         flex-direction: column;
-        /* height: 400px; */
+        height: 101vh;
     }
 }
 /* VIDEO SECTION */
