@@ -650,6 +650,9 @@ footer {
     margin-right: 10px;
 }
 
+.quick-links ul{
+    padding-left: 0;
+}
 /* Style the footer headings */
 h2 {
     color: #fff;
@@ -689,10 +692,13 @@ ul li a:hover {
 .social-media-links img {
     height: 50px;
 }
-.social-media-links ul {
+.social-media-links ul{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    
+    padding-left: 0;
 }
+
 
 @media screen  and (max-width:750px){
     .quick-links{

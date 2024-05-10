@@ -33,6 +33,11 @@ subadmission.onclick = function(){
     subadmission.style.display = "none";
 }
 
+// carousal
+setInterval(function () {
+    
+}, 1000);
+
 
 
 
