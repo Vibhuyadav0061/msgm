@@ -352,7 +352,7 @@ display: block;
         justify-content: space-around;
         align-items: center;
         flex-direction: column;
-        height: 101vh;
+        height: 110vh;
     }
 }
 /* VIDEO SECTION */
@@ -395,8 +395,8 @@ color: white;
 
 /* MAP   */
 .location_map{
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
 }
 
 
